@@ -55,3 +55,4 @@ public class TripleDiceWithHistory extends TripleDice implements Cloneable
 }
 
 //-- end of TripleDiceWithHistory.java ------------------------
+// Good job, Emmanuel
